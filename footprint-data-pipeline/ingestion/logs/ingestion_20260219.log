@@ -1,0 +1,84 @@
+2026-02-19 01:36:25,660 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:36:25,660 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2026
+2026-02-19 01:40:08,881 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:40:08,881 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2026
+2026-02-19 01:40:09,432 | INFO | ingestion | ingest_footprint.py:30 | fetch data complete for year: 2026
+2026-02-19 01:40:09,432 | INFO | ingestion | ingest_footprint.py:40 | updating database for year : 2026
+2026-02-19 01:43:29,008 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:43:29,008 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2026
+2026-02-19 01:43:29,551 | INFO | ingestion | ingest_footprint.py:28 | source data not available for year : 2026
+2026-02-19 01:43:29,552 | INFO | ingestion | ingest_footprint.py:32 | fetch data complete for year: 2026
+2026-02-19 01:43:29,552 | INFO | ingestion | ingest_footprint.py:41 | updating database for year : 2026
+2026-02-19 01:43:44,304 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:43:44,305 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2010
+2026-02-19 01:43:45,022 | INFO | ingestion | ingest_footprint.py:32 | fetch data complete for year: 2010
+2026-02-19 01:43:45,088 | INFO | ingestion | ingest_footprint.py:41 | updating database for year : 2010
+2026-02-19 01:43:58,713 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:43:58,713 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2021
+2026-02-19 01:43:59,431 | INFO | ingestion | ingest_footprint.py:32 | fetch data complete for year: 2021
+2026-02-19 01:43:59,500 | INFO | ingestion | ingest_footprint.py:41 | updating database for year : 2021
+2026-02-19 01:47:22,559 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:47:22,560 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2021
+2026-02-19 01:47:23,312 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2021
+2026-02-19 01:47:23,375 | INFO | ingestion | ingest_footprint.py:43 | updating database for year : 2021
+2026-02-19 01:47:31,805 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:47:31,805 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2026
+2026-02-19 01:47:32,344 | ERROR | ingestion | ingest_footprint.py:28 | API returned null/empty records for year : 2026
+2026-02-19 01:49:55,530 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:49:55,530 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2023
+2026-02-19 01:49:56,262 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2023
+2026-02-19 01:49:56,329 | INFO | ingestion | ingest_footprint.py:43 | updating database for year : 2023
+2026-02-19 01:50:22,997 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:50:22,997 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2023
+2026-02-19 01:50:23,720 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2023
+2026-02-19 01:50:23,785 | INFO | ingestion | ingest_footprint.py:43 | updating database for year : 2023
+2026-02-19 01:57:00,166 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 01:57:00,166 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2023
+2026-02-19 01:57:00,893 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2023
+2026-02-19 01:57:00,972 | INFO | ingestion | ingest_footprint.py:47 | updating database for year : 2023
+2026-02-19 02:06:53,746 | INFO | ingestion | ingest_footprint.py:21 | Starting ingestion job
+2026-02-19 02:06:53,746 | INFO | ingestion | ingest_footprint.py:22 | Processing year: 2023
+2026-02-19 02:06:54,523 | INFO | ingestion | ingest_footprint.py:37 | fetch data complete for year: 2023
+2026-02-19 02:06:54,597 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:11:58,080 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 02:11:58,080 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2023
+2026-02-19 02:11:58,851 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2023
+2026-02-19 02:11:58,921 | INFO | ingestion | ingest_footprint.py:48 | updating database for year : 2023
+2026-02-19 02:13:58,847 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:13:58,848 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:13:59,574 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:13:59,643 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:14:11,520 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:14:11,520 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:14:12,242 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:14:12,310 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:14:33,303 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:14:33,303 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:14:34,020 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:14:34,087 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:19:25,886 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:19:25,886 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:19:26,673 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:19:26,742 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:20:10,960 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:20:10,960 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:20:11,687 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:20:11,765 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:23:07,014 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:23:07,014 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:23:08,091 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:23:08,152 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:23:08,171 | INFO | ingestion | ingest_footprint.py:52 | refresh DBT model for year : 2023
+2026-02-19 02:23:08,172 | INFO | ingestion | ingest_footprint.py:55 | Ingestion for year 2023 completed
+2026-02-19 02:23:25,648 | INFO | ingestion | ingest_footprint.py:20 | Starting ingestion job
+2026-02-19 02:23:25,648 | INFO | ingestion | ingest_footprint.py:21 | Processing year: 2023
+2026-02-19 02:23:26,374 | INFO | ingestion | ingest_footprint.py:36 | fetch data complete for year: 2023
+2026-02-19 02:23:26,443 | INFO | ingestion | ingest_footprint.py:49 | updating database for year : 2023
+2026-02-19 02:23:26,463 | INFO | ingestion | ingest_footprint.py:52 | refresh DBT model for year : 2023
+2026-02-19 02:23:30,162 | INFO | ingestion | ingest_footprint.py:55 | Ingestion for year 2023 completed
+2026-02-19 07:38:23,471 | INFO | ingestion | ingest_footprint.py:19 | Starting ingestion job
+2026-02-19 07:38:23,472 | INFO | ingestion | ingest_footprint.py:20 | Processing year: 2023
+2026-02-19 07:38:24,385 | INFO | ingestion | ingest_footprint.py:35 | fetch data complete for year: 2023
+2026-02-19 07:38:24,519 | INFO | ingestion | ingest_footprint.py:48 | updating database for year : 2023
+2026-02-19 07:38:24,629 | INFO | ingestion | ingest_footprint.py:51 | refresh DBT model for year : 2023
+2026-02-19 07:38:29,029 | INFO | ingestion | ingest_footprint.py:54 | Ingestion for year 2023 completed

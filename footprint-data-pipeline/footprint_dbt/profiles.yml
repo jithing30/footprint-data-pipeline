@@ -1,0 +1,6 @@
+footprint:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /Users/radhin/Downloads/footprint-data-pipeline/ingestion/data/gold/footprint.duckdb

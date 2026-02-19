@@ -1,0 +1,14 @@
+name: footprint_dbt
+version: "1.0"
+config-version: 2
+
+profile: footprint
+
+model-paths: ["models"]
+
+models:
+  footprint_dbt:
+    staging:
+      materialized: view
+    marts:
+      materialized: table
