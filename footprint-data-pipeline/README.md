@@ -8,4 +8,4 @@ pip install -r requirements.txt
 
 ## Run
 
-./scripts/run_pipeline.sh
+python -m src/ingestion_footprint.py
